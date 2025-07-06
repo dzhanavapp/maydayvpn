@@ -5,6 +5,7 @@ export default defineConfig({
   title: "MayDayVPN",
   description: "Быстрый и надежный VPN сервис",
   themeConfig: {
+    siteTitle: "MayDayVPN",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Главная", link: "/" },

@@ -1,5 +1,5 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+# MayDayVPN - Главная страница
 layout: home
 
 hero:
